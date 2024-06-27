@@ -1,0 +1,150 @@
+{
+    "aboutMe": "My name is Siphokuhle Nyana and I am a student at Life Choices",
+    "projects": [
+      {
+        "name": "Calculator",
+        "github": "https://github.com/siphokuhlenyana/CalcDemo.git",
+        "vercel": "link",
+        "decription": "I used HTML to craeate my calculator ",
+        "image": ""
+      },
+      {
+        "name": "Swegga",
+        "github": "https://github.com/siphokuhlenyana/SweggaProject.git",
+        "vercel": "link",
+        "decription": "In this project I used Javascript and HTML to clone a website that is already working",
+        "image": ""
+      },
+      {
+        "name": "Bootstrap Portfolio",
+        "github": "https://github.com/siphokuhlenyana/BootsrapPortfolio.git",
+        "vercel": "https://bootsrap-portfolio-htiw.vercel.app/",
+        "decription": "This has been one the projects I had to build up my portfolio and show what I have done so far . The main languages used here are HTML and CSS .",
+        "image": ""
+      },
+      {
+        "name": "JSEOMP",
+        "github": "https://github.com/siphokuhlenyana/SweggaProject.git",
+        "vercel": "https://js-eomp-mtzu.vercel.app/",
+        "decription": "Javascript manipulation ,creating a shopping cart  and exciting features built using Javascript and functionality.",
+        "image": ""
+      }
+    ],
+    "education": [
+      {
+        "description": "Academy at Landsdowne Imam Haron Road , I am  doing HTML ,Bootstrap , CSS , Javascript , Vue , MySQL and Node js as my modules . The bonus accompaning this course it that I also do Personal and Proffessional Development Skills , Mental Fitness too as a module.",
+        "year": "2nd April -to prsent",
+        "placeOfInstitution": "Life Choice",
+        "contact": [
+          {
+            "name": "Matthew",
+            "contactDetails": "53369955"
+          }
+        ]
+      },
+      {
+        "description": "HC:ICT",
+        "year": "2018",
+        "placeOfInstitution": "False Bay College",
+        "contact": [
+          {
+            "name": "Scholtz",
+            "contactDetails": "695586"
+          }
+        ]
+      },
+      {
+        "description": "DIP:ICT",
+        "year": "2019-2021",
+        "placeOfInstitution": "CPUT",
+        "contact": [
+          {
+            "name": "Marecha",
+            "contactDetails": "52472568"
+          }
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "image": "URL"
+      },
+      {
+        "name": "Photoshop",
+        "image": "URL"
+      },
+      {
+        "name": "PremierePro",
+        "image": "URL"
+      },
+      {
+        "name": "MySQL",
+        "image": "URL"
+      },
+      {
+        "name": "Agile Fondations",
+        "image": "URL"
+      },
+      {
+        "name": "Management QA"
+      },
+      {
+        "name": "Call Centre Outbound ",
+        "description": "Problem solving , calling about arears that are due / overdue ."
+      },
+      {
+        "name": "CallCentre Customer Service"
+      },
+      {
+        "name": "AEDC Facilitation",
+        "description": "Activists Education Development Centre "
+      },
+      {
+        "name": "ADT Teach",
+        "description": "Basics of Microsoft Office , youth leadership ."
+      }
+    ],
+    "workExp": [
+      {
+        "placeOfWork": "Weltevreden Valley Core Primary",
+        "year": "2023",
+        "description": "Teacher's Assistant",
+        "contact": {
+          "name": "Sisipho Ngcuka",
+          "position": "NST&ENG Teacher",
+          "email": "sisiphongcuka@wvcp.gov"
+        }
+      },
+      {
+        "placeOfWork": "Nimble",
+        "year": "2022",
+        "description": "Sales & Customer Service Consultant",
+        "contact": {
+          "name": "Clarice Modisang",
+          "position": "Team Leader",
+          "email": "claricemodisang@nimble.com"
+        }
+      },
+      {
+        "placeOfWork": "Stats SA",
+        "year": "2022",
+        "description": "Fieldworker",
+        "contact": {
+          "name": "",
+          "position": "Supervisor",
+          "email": ""
+        }
+      },
+      {
+        "placeOfWork": "SUBCO",
+        "year": "2022",
+        "description": "Packer",
+        "contact": {
+          "name": "",
+          "position": "Manager",
+          "email": ""
+        }
+      }
+    ]
+  }
