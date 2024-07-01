@@ -24,8 +24,8 @@
       },
       {
         "name": "JSEOMP",
-        "github": "https://github.com/siphokuhlenyana/SweggaProject.git",
-        "vercel": "https://js-eomp-mtzu.vercel.app/",
+        "github": "https://github.com/siphokuhlenyana/JS-EOMP.git",
+        "vercel": "https://js-eomp-vtni.vercel.app/",
         "decription": "Javascript manipulation ,creating a shopping cart  and exciting features built using Javascript and functionality.",
         "image": ""
       }
@@ -37,7 +37,7 @@
         "placeOfInstitution": "Life Choice",
         "contact": [
           {
-            "name": "Matthew",
+            "name": "Matthew Brown",
             "contactDetails": "53369955"
           }
         ]
@@ -87,22 +87,26 @@
         "image": "URL"
       },
       {
-        "name": "Management QA"
+        "name": "Management QA",
+        "image" :"URL"
       },
       {
         "name": "Call Centre Outbound ",
         "description": "Problem solving , calling about arears that are due / overdue ."
       },
       {
-        "name": "CallCentre Customer Service"
+        "name": "CallCentre Customer Service",
+        "image":"URL"
       },
       {
         "name": "AEDC Facilitation",
-        "description": "Activists Education Development Centre "
+        "description": "Activists Education Development Centre , an organization based in Cape Town  that aims to equip young people and older to develop their knowledge around being activists and develop skills .",
+        "image":"URL"
       },
       {
         "name": "ADT Teach",
-        "description": "Basics of Microsoft Office , youth leadership ."
+        "description": "Basics of Microsoft Office , youth leadership .",
+        "image" :"URL"
       }
     ],
     "workExp": [
@@ -122,7 +126,7 @@
         "description": "Sales & Customer Service Consultant",
         "contact": {
           "name": "Clarice Modisang",
-          "position": "Team Leader",
+          "position": "Co-worker",
           "email": "claricemodisang@nimble.com"
         }
       },
@@ -131,7 +135,7 @@
         "year": "2022",
         "description": "Fieldworker",
         "contact": {
-          "name": "",
+          "name": "Bathobele",
           "position": "Supervisor",
           "email": ""
         }
