@@ -1,5 +1,5 @@
 {
-    "aboutMe": "My name is Siphokuhle Nyana and I am a student at Life Choices",
+    "aboutMe": "My name is Siphokuhle Nyana and I am a student at Life Choices .I'm from one of the small townships around Phillipi called Samora Machel .I am a 24 year old young woman that is independent , passionate and hardworking when it comes to things that I love and enjoy doing. In my spare time I like to play around coding , I love to listen to music because I feel like it reasonates with everything I tap into be it entertaining my special space and balancing my social and work life . I am an observant person that takes note of minor detailed specifics such as debugging even the problems that I face in real life . I love playing mind games , problem-solving game ,board game and puzzles . My biggest strength is endurance and resilience .I was raised by my mom alongside with my 3 sisters that are older than me .Encrytion has been my A- game since I got aware that everything in life needs to be taken care of somehow . ",
     "projects": [
       {
         "name": "Calculator",
@@ -12,14 +12,14 @@
         "name": "Swegga",
         "github": "https://github.com/siphokuhlenyana/SweggaProject.git",
         "vercel": "link",
-        "decription": "In this project I used Javascript and HTML to clone a website that is already working",
+        "decription": "In this project I used Javascript and HTML to clone a website that is already working and existing .",
         "image": ""
       },
       {
         "name": "Bootstrap Portfolio",
         "github": "https://github.com/siphokuhlenyana/BootsrapPortfolio.git",
         "vercel": "https://bootsrap-portfolio-htiw.vercel.app/",
-        "decription": "This has been one the projects I had to build up my portfolio and show what I have done so far . The main languages used here are HTML and CSS .",
+        "decription": "This has been one the projects I did  to build up my portfolio and show what I have done so far . The main languages used here are HTML, bootstrap and CSS .",
         "image": ""
       },
       {
