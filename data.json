@@ -68,45 +68,74 @@
     "skills": [
       {
         "name": "HTML",
-        "image": "URL"
+        "image": "URL",
+          "type":"hard",
+          "level":"Intermediate"
       },
       {
         "name": "Photoshop",
-        "image": "URL"
+        "image": "URL",
+          "type":"hard",
+          "level":"Intermediate"
+          
       },
       {
         "name": "PremierePro",
-        "image": "URL"
+        "image": "URL",
+          "type":"hard",
+          "level":"Beginner"
       },
+        {
+           "name":"Adaptability",
+            "image":"URL",
+            "type":"soft"
+        },
+        
       {
         "name": "MySQL",
-        "image": "URL"
+        "image": "URL",
+          "type":"hard",
+          "level":"Intermediate"
+          
       },
       {
         "name": "Agile Fondations",
-        "image": "URL"
+        "image": "URL",
+          "type":"hard",
+          
+          
       },
       {
-        "name": "Management QA",
-        "image" :"URL"
+        "name": "Scripts Analysis",
+        "image" :"URL",
+          "type":"hard"
       },
       {
         "name": "Call Centre Outbound ",
-        "description": "Problem solving , calling about arears that are due / overdue ."
+        "description": "Problem solving , calling about arears that are due / overdue .",
+          "type":"hard"
       },
       {
         "name": "CallCentre Customer Service",
-        "image":"URL"
+        "image":"URL",
+          "type":"hard"
       },
+        {
+            "name":"Leadership",
+            "image":"URL",
+            "type":"soft"
+        },
       {
         "name": "AEDC Facilitation",
         "description": "Activists Education Development Centre , an organization based in Cape Town  that aims to equip young people and older to develop their knowledge around being activists and develop skills .",
-        "image":"URL"
+        "image":"URL",
+          "type":"hard"
       },
       {
-        "name": "ADT Teach",
+        "name": "Computer Literacy",
         "description": "Basics of Microsoft Office , youth leadership .",
-        "image" :"URL"
+        "image" :"URL",
+          "type":"soft"
       }
     ],
     "workExp": [
