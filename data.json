@@ -68,46 +68,45 @@
     "skills": [
       {
         "name": "HTML",
-        "image": "URL",
           "type":"hard",
           "level":"Intermediate"
       },
       {
         "name": "Photoshop",
-        "image": "URL",
+        
           "type":"hard",
           "level":"Intermediate"
           
       },
       {
         "name": "PremierePro",
-        "image": "URL",
+        
           "type":"hard",
           "level":"Beginner"
       },
         {
            "name":"Adaptability",
-            "image":"URL",
+         
             "type":"soft"
         },
         
       {
         "name": "MySQL",
-        "image": "URL",
+        
           "type":"hard",
           "level":"Intermediate"
           
       },
       {
         "name": "Agile Fondations",
-        "image": "URL",
+       
           "type":"hard"
           
           
       },
       {
         "name": "Scripts Analysis",
-        "image" :"URL",
+       
           "type":"hard"
       },
       {
@@ -117,24 +116,24 @@
       },
       {
         "name": "CallCentre Customer Service",
-        "image":"URL",
+        
           "type":"hard"
       },
         {
             "name":"Leadership",
-            "image":"URL",
+          
             "type":"soft"
         },
       {
         "name": "AEDC Facilitation",
         "description": "Activists Education Development Centre , an organization based in Cape Town  that aims to equip young people and older to develop their knowledge around being activists and develop skills .",
-        "image":"URL",
+        
           "type":"hard"
       },
       {
         "name": "Computer Literacy",
         "description": "Basics of Microsoft Office , youth leadership .",
-        "image" :"URL",
+        
           "type":"soft"
       }
     ],
@@ -146,7 +145,8 @@
         "contact": {
           "name": "Sisipho Ngcuka",
           "position": "NST&ENG Teacher",
-          "email": "sisiphongcuka@wvcp.gov"
+          "email": "sisiphongcuka@wvcp.gov",
+            "image":"https://siphokuhlenyana.github.io/ImagesPortfolio/Teacher's%20Assistant.webp"
         }
       },
       {
@@ -156,7 +156,8 @@
         "contact": {
           "name": "Clarice Modisang",
           "position": "Co-worker",
-          "email": "claricemodisang@nimble.com"
+          "email": "claricemodisang@nimble.com",
+            "image":"https://siphokuhlenyana.github.io/ImagesPortfolio/callcentre.webp"
         }
       },
       {
@@ -166,7 +167,7 @@
         "contact": {
           "name": "Bathobele",
           "position": "Supervisor",
-          "email": ""
+          "image":"https://siphokuhlenyana.github.io/ImagesPortfolio/stats.jpg"
         }
       },
       {
