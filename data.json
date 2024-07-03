@@ -16,11 +16,11 @@
         "image": "https://siphokuhlenyana.github.io/Vue_projectImages/Screenshot%202024-07-03%20120128.png"
       },
       {
-        "name": "Bootstrap Portfolio",
-        "github": "https://github.com/siphokuhlenyana/BootsrapPortfolio.git",
-        "vercel": "https://bootsrap-portfolio-htiw.vercel.app/",
-        "decription": "This has been one the projects I did  to build up my portfolio and show what I have done so far . The main languages used here are HTML, bootstrap and CSS .",
-        "image": ""
+        "name": "Interest Calculator",
+        "github": "https://github.com/siphokuhlenyana/InterestAmount.git",
+        "vercel": "https://interest-amount-eight.vercel.app/",
+        "decription": "Calculate the amount you get from investments over a period of time .",
+        "image": "https://siphokuhlenyana.github.io/Vue_projectImages/interest.jpg"
       },
       {
         "name": "JSEOMP",
