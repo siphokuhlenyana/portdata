@@ -2,16 +2,16 @@
     "aboutMe": "My name is Siphokuhle Nyana and I am a student at Life Choices .I'm from one of the small townships around Phillipi called Samora Machel .I am a 24 year old young woman that is independent , passionate and hardworking when it comes to things that I love and enjoy doing. In my spare time I like to play around coding , I love to listen to music because I feel like it reasonates with everything I tap into be it entertaining my special space and balancing my social and work life . I am an observant person that takes note of minor detailed specifics such as debugging even the problems that I face in real life . I love playing mind games , problem-solving game ,board game and puzzles . My biggest strength is endurance and resilience .I was raised by my mom alongside with my 3 sisters that are older than me .Encrytion has been my A- game since I got aware that everything in life needs to be taken care of somehow . ",
     "projects": [
       {
-        "name": "Calculator",
-        "github": "https://github.com/siphokuhlenyana/CalcDemo.git",
-        "vercel": "link",
-        "decription": "I used HTML to craeate my calculator ",
-        "image": ""
+        "name": "Age to Days",
+        "github": "https://github.com/siphokuhlenyana/ageToDays.git",
+        "vercel": "https://age-to-days-liart.vercel.app/",
+        "decription": "I used HTML and CSS to generate a website that calculate age  conversion to days . ",
+        "image": "https://siphokuhlenyana.github.io/Vue_projectImages/Screenshot%202024-07-02%20105008.png"
       },
       {
         "name": "Swegga",
         "github": "https://github.com/siphokuhlenyana/SweggaProject.git",
-        "vercel": "link",
+        "netlify": "https://fantastic-mochi-cf5791.netlify.app/",
         "decription": "In this project I used Javascript and HTML to clone a website that is already working and existing .",
         "image": ""
       },
@@ -38,31 +38,31 @@
         "contact": [
           {
             "name": "Matthew Brown",
-            "contactDetails": "53369955",
+            "contactDetails": "071 563 4139",
               "id":"1"
           }
         ]
       },
       {
-        "description": "HC:ICT",
+        "description": "HC:ICT , I did Information Technology Services Practise  , Business Practise ,ICT Fundamentals,Information Technology Services Theory ,Professional Communications , Programming and Quantitative Techniques",
         "year": "2018",
-        "placeOfInstitution": "False Bay College",
+        "placeOfInstitution": "CPUT",
         "contact": [
           {
-            "name": "Scholtz",
-            "contactDetails": "695586",
+            "name": "Daphne Pillay",
+            "contactDetails": "021 460 3685",
               "id":"2"
           }
         ]
       },
       {
-        "description": "DIP:ICT",
-        "year": "2019-2021",
-        "placeOfInstitution": "CPUT",
+        "description": "Life Sciences , Geography ,Mathematics ,IsiXhosa HL ,English FAL ,Life Orientation and Physical Sciences",
+        "year": "2017 Matric",
+        "placeOfInstitution": "Zisukhanyo S.S.S",
         "contact": [
           {
-            "name": "Marecha",
-            "contactDetails": "52472568",
+            "name": "Nontsikelelo Mahote",
+            "contactDetails": "083 431 3171",
               "id":"3"
           }
         ]
@@ -73,6 +73,21 @@
         "name": "HTML",
           "type":"hard",
           "level":"Intermediate"
+      },
+        {
+        "name": "Java",
+          "type":"hard",
+          "level":"Intermediate"
+      },
+        {
+        "name": "Greenfoot",
+          "type":"hard",
+          "level":"Intermediate"
+      },
+        {
+        "name": "Android Studio",
+          "type":"hard",
+          "level":"Beginner"
       },
       {
         "name": "Photoshop",
@@ -182,6 +197,16 @@
           "position": "Manager",
           "email": ""
         }
+      },
+        {
+        "placeOfWork": "False Bay College (OLC)",
+        "year": "2018",
+        "description": "Library Assistance , Printing , Emailing ,Shelving books",
+        "contact": {
+          "name": "",
+          "position": "Manager",
+          "email": ""
+        }
       }
     ],
     "testimonials":[
@@ -224,7 +249,7 @@
             "name":"Yonela" ,
             "surname":"Mangele",
             "description":"Usezobhala",
-            "image":""
+            "image":"https://yonelamangele.github.io/Images/20240422_122539.jpg"
             
         }
     ]
