@@ -11,9 +11,9 @@
       {
         "name": "Swegga",
         "github": "https://github.com/siphokuhlenyana/SweggaProject.git",
-        "netlify": "https://fantastic-mochi-cf5791.netlify.app/",
+        "vercel": "https://fantastic-mochi-cf5791.netlify.app/",
         "decription": "In this project I used Javascript and HTML to clone a website that is already working and existing .",
-        "image": ""
+        "image": "https://siphokuhlenyana.github.io/Vue_projectImages/Screenshot%202024-07-03%20120128.png"
       },
       {
         "name": "Bootstrap Portfolio",
@@ -27,7 +27,21 @@
         "github": "https://github.com/siphokuhlenyana/JS-EOMP.git",
         "vercel": "https://js-eomp-vtni.vercel.app/",
         "decription": "Javascript manipulation ,creating a shopping cart  and exciting features built using Javascript and functionality.",
-        "image": ""
+        "image": "https://siphokuhlenyana.github.io/Vue_projectImages/jsemp.png"
+      },
+        {
+        "name": "Area of a Triangle",
+        "github": "https://github.com/siphokuhlenyana/areaOfTriangle.git",
+        "vercel": "https://area-of-triangle-tan.vercel.app/",
+        "decription": "User prompts the measurements for the base and the height and click on the button for the application to execute the results. .",
+        "image": "https://siphokuhlenyana.github.io/Vue_projectImages/Screenshot%202024-07-02%20105409.png"
+      },
+        {
+        "name": "Avatar Project",
+        "github": "https://github.com/siphokuhlenyana/Wednesday.git",
+        "vercel": "https://deluxe-babka-d7cf6f.netlify.app/",
+        "decription": "This project displays a survey about the people I have interviewed and displays their avatars.",
+        "image": "https://siphokuhlenyana.github.io/Vue_projectImages/avatar-web.png"
       }
     ],
     "education": [
@@ -72,22 +86,22 @@
       {
         "name": "HTML",
           "type":"hard",
-          "level":"Intermediate"
+          "level":"*Intermediate"
       },
         {
         "name": "Java",
           "type":"hard",
-          "level":"Intermediate"
+          "level":"*Intermediate"
       },
         {
         "name": "Greenfoot",
           "type":"hard",
-          "level":"Intermediate"
+          "level":"*Intermediate"
       },
         {
         "name": "Android Studio",
           "type":"hard",
-          "level":"Beginner"
+          "level":"*Beginner"
       },
       {
         "name": "Photoshop",
@@ -100,7 +114,7 @@
         "name": "PremierePro",
         
           "type":"hard",
-          "level":"Beginner"
+          "level":"*Beginner"
       },
         {
            "name":"Adaptability",
@@ -112,7 +126,7 @@
         "name": "MySQL",
         
           "type":"hard",
-          "level":"Intermediate"
+          "level":"*Intermediate"
           
       },
       {
@@ -250,7 +264,7 @@
              {
             "name":"Yonela" ,
             "surname":"Mangele",
-            "description":"Usezobhala",
+            "description":"Siphokuhle is the definition of hard work and dedication and this is proven by what she does as soon as she gets to class very early in the morning, which is opening her laptop and be busy with her work. Her sense of humour creates a healthy and fun environment to work in and what I find most inspiring about her is her ability to lead and come up with creative solutions whenever she is in a group. I wholeheartedly recommend Siphokuhle for any serious or challenging projects because the expected result of her work is excellence and the deadline of the project being met.",
             "image":"https://yonelamangele.github.io/Images/20240422_122539.jpg"
             
         }
