@@ -171,6 +171,7 @@
     ],
     "workExp": [
       {
+        "id": 1,
         "placeOfWork": "Weltevreden Valley Core Primary",
         "year": "2023",
         "description": "Teacher's Assistant",
@@ -182,6 +183,7 @@
         }
       },
       {
+        "id": 2,
         "placeOfWork": "Nimble",
         "year": "2022",
         "description": "Sales & Customer Service Consultant",
@@ -193,6 +195,7 @@
         }
       },
       {
+        "id": 3,
         "placeOfWork": "Stats SA",
         "year": "2022",
         "description": "Fieldworker",
@@ -203,6 +206,7 @@
         }
       },
       {
+        "id": 4,
         "placeOfWork": "SUBCO",
         "year": "2022",
         "description": "Packer",
@@ -214,6 +218,7 @@
         }
       },
         {
+            "id": 5,
         "placeOfWork": "False Bay College (OLC)",
         "year": "2018",
         "description": "Library Assistance , Printing , Emailing ,Shelving books",
