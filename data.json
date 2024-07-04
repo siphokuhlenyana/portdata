@@ -93,12 +93,12 @@
           "level":"*Intermediate"
       },
       {
-        "name": "Networking Fundamentals -CISCO",
+        "name": "Networking Fundamentals CISCO",
           "type":"hard",
           "level":"*Intermediate"
       },
       {
-        "name": "IT Essentials -CISCO",
+        "name": "IT Essentials CISCO",
           "type":"hard",
           "level":"*Intermediate"
       },
@@ -145,7 +145,7 @@
           
       },
       {
-        "name": "Agile Fondations",
+        "name": "Agile Foundations",
        
           "type":"hard"
           
