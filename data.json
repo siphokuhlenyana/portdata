@@ -86,7 +86,7 @@
         "name": "HTML",
           "type":"hard",
           "level":"*Intermediate",
-          "image":"https://siphokuhlenyana.github.io/icons/htmlIcon.png"
+          "image":"https://siphokuhlenyana.github.io/icons/html-logo-html5-email-web-feed-theme-orange-line-circle-png-clipart-thumbnail.jpg"
       },
         {
         "name": "Java",
@@ -108,7 +108,8 @@
       },
       {
         "name": "Decision Making",
-          "type":"soft"
+          "type":"soft",
+          "image":"https://siphokuhlenyana.github.io/icons/decision.png"
           
       },
 
@@ -142,7 +143,8 @@
         {
            "name":"Adaptability",
          
-            "type":"soft"
+            "type":"soft",
+            "image":"https://siphokuhlenyana.github.io/icons/1_fz1leVKCwwI3dMmNZuhUOw.jpg"
         },
         
       {
@@ -156,41 +158,48 @@
       {
         "name": "Agile Foundations",
        
-          "type":"hard"
+          "type":"hard",
+          "image":"https://siphokuhlenyana.github.io/icons/agile.jpg"
           
           
       },
       {
         "name": "Scripts Analysis",
        
-          "type":"hard"
+          "type":"hard",
+          "image":"https://siphokuhlenyana.github.io/icons/script.png"
       },
       {
         "name": "Call Centre Outbound ",
         "description": "Problem solving , calling about arears that are due / overdue .",
-          "type":"hard"
+          "type":"hard",
+          "image":"https://siphokuhlenyana.github.io/icons/call.jpg"
       },
       {
         "name": "CallCentre Customer Service",
         
-          "type":"hard"
+          "type":"hard",
+          "image":"https://siphokuhlenyana.github.io/icons/service.jpg"
       },
         {
             "name":"Leadership",
           
-            "type":"soft"
+            "type":"soft",
+            "image":"https://siphokuhlenyana.github.io/icons/Leader.png"
         },
       {
         "name": "AEDC Facilitation",
         "description": "Activists Education Development Centre , an organization based in Cape Town  that aims to equip young people and older to develop their knowledge around being activists and develop skills .",
         
-          "type":"hard"
+          "type":"hard",
+          "image":"https://siphokuhlenyana.github.io/icons/facilitating-workshop.jpg"
       },
       {
         "name": "Computer Literacy",
         "description": "Basics of Microsoft Office , youth leadership .",
         
-          "type":"soft"
+          "type":"soft",
+          "image":"https://siphokuhlenyana.github.io/icons/11008.jpg"
       }
     ],
     "workExp": [
