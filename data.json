@@ -85,22 +85,26 @@
       {
         "name": "HTML",
           "type":"hard",
-          "level":"*Intermediate"
+          "level":"*Intermediate",
+          "image":"https://siphokuhlenyana.github.io/icons/htmlIcon.png"
       },
         {
         "name": "Java",
           "type":"hard",
-          "level":"*Intermediate"
+          "level":"*Intermediate",
+            "image":"https://siphokuhlenyana.github.io/icons/javaIcon.jpg"
       },
       {
         "name": "Networking Fundamentals CISCO",
           "type":"hard",
-          "level":"*Intermediate"
+          "level":"*Intermediate",
+          "image":"https://siphokuhlenyana.github.io/icons/cisco.jpg"
       },
       {
         "name": "IT Essentials CISCO",
           "type":"hard",
-          "level":"*Intermediate"
+          "level":"*Intermediate",
+          "image":"https://siphokuhlenyana.github.io/icons/cisco.jpg"
       },
       {
         "name": "Decision Making",
@@ -112,24 +116,28 @@
         "name": "Greenfoot",
           "type":"hard",
           "level":"*Intermediate"
+            "image":"https://siphokuhlenyana.github.io/icons/greenfoot.png"
       },
         {
         "name": "Android Studio",
           "type":"hard",
-          "level":"*Beginner"
+          "level":"*Beginner",
+            "image":"https://siphokuhlenyana.github.io/icons/andr.jpg"
       },
       {
         "name": "Photoshop",
         
           "type":"hard",
-          "level":"*Intermediate"
+          "level":"*Intermediate",
+          "image":"https://siphokuhlenyana.github.io/icons/photoshop.png"
           
       },
       {
         "name": "PremierePro",
         
           "type":"hard",
-          "level":"*Beginner"
+          "level":"*Beginner",
+          "image":"https://siphokuhlenyana.github.io/icons/png-clipart-adobe-premiere-pro-adobe-creative-cloud-adobe-systems-adobe-acrobat-non-linear-editing-system-android-purple-violet-thumbnail.png"
       },
         {
            "name":"Adaptability",
@@ -141,7 +149,8 @@
         "name": "MySQL",
         
           "type":"hard",
-          "level":"*Intermediate"
+          "level":"*Intermediate",
+          "image":"https://siphokuhlenyana.github.io/icons/mysql.png"
           
       },
       {
