@@ -95,9 +95,9 @@
             "image":"https://siphokuhlenyana.github.io/icons/javaIcon.jpg"
       },
       {
-        "name": "Networking Fundamentals CISCO",
+        "name": "Operations System Basics CISCO",
           "type":"hard",
-          "level":"*Intermediate",
+          "level":"*Advanced",
           "image":"https://siphokuhlenyana.github.io/icons/cisco.jpg"
       },
       {
@@ -205,19 +205,20 @@
     "workExp": [
       {
         "id": 1,
-        "placeOfWork": "Weltevreden Valley Core Primary",
-        "year": "2023",
-        "description": "Teacher's Assistant",
+           "placeOfWork": "LC Studio",
+        "year": "2024",
+        "description": "Intern",
         "contact": {
-          "name": "Sisipho Ngcuka",
-          "position": "NST&ENG Teacher",
-          "email": "sisiphongcuka@wvcp.gov",
-            "image":"https://siphokuhlenyana.github.io/ImagesPortfolio/Teacher's%20Assistant.webp"
+          "name": "",
+          "position": "Manager",
+          "email": "",
+            "image":"https://siphokuhlenyana.github.io/ImagesPortfolio/images.png"
+      
         }
       },
       {
         "id": 2,
-        "placeOfWork": "Nimble",
+        "placeOfWork": "Debt Rescue",
         "year": "2022",
         "description": "Sales & Customer Service Consultant",
         "contact": {
@@ -240,14 +241,14 @@
       },
       {
         "id": 4,
-        "placeOfWork": "SUBCO",
-        "year": "2022",
-        "description": "Packer",
+         "placeOfWork": "Weltevreden Valley Core Primary",
+        "year": "2023",
+        "description": "Teacher's Assistant",
         "contact": {
-          "name": "",
-          "position": "Manager",
-          "email": "",
-            "image":"https://siphokuhlenyana.github.io/ImagesPortfolio/Packer.jpg"
+          "name": "Sisipho Ngcuka",
+          "position": "NST&ENG Teacher",
+          "email": "sisiphongcuka@wvcp.gov",
+            "image":"https://siphokuhlenyana.github.io/ImagesPortfolio/Teacher's%20Assistant.webp"
         }
       },
         {
