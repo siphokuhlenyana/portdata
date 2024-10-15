@@ -218,14 +218,15 @@
       },
       {
         "id": 2,
-        "placeOfWork": "Debt Rescue",
-        "year": "2022",
-        "description": "Sales & Customer Service Consultant",
+          "placeOfWork": "Weltevreden Valley Core Primary",
+        "year": "2023",
+        "description": "Teacher's Assistant",
         "contact": {
-          "name": "Clarice Modisang",
-          "position": "Co-worker",
-          "email": "claricemodisang@nimble.com",
-            "image":"https://siphokuhlenyana.github.io/ImagesPortfolio/callcentre.webp"
+          "name": "Sisipho Ngcuka",
+          "position": "NST&ENG Teacher",
+          "email": "sisiphongcuka@wvcp.gov",
+            "image":"https://siphokuhlenyana.github.io/ImagesPortfolio/Teacher's%20Assistant.webp"
+       
         }
       },
       {
@@ -241,14 +242,14 @@
       },
       {
         "id": 4,
-         "placeOfWork": "Weltevreden Valley Core Primary",
-        "year": "2023",
-        "description": "Teacher's Assistant",
+         "placeOfWork": "Debt Rescue",
+        "year": "2022",
+        "description": "Sales & Customer Service Consultant",
         "contact": {
-          "name": "Sisipho Ngcuka",
-          "position": "NST&ENG Teacher",
-          "email": "sisiphongcuka@wvcp.gov",
-            "image":"https://siphokuhlenyana.github.io/ImagesPortfolio/Teacher's%20Assistant.webp"
+          "name": "Clarice Modisang",
+          "position": "Co-worker",
+          "email": "claricemodisang@nimble.com",
+            "image":"https://siphokuhlenyana.github.io/ImagesPortfolio/callcentre.webp"
         }
       },
         {
