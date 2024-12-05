@@ -170,16 +170,16 @@
           "image":"https://siphokuhlenyana.github.io/icons/scr.jpg"
       },
       {
-        "name": "Call Centre Outbound ",
+        "name": "SCRUM Master ",
         "description": "Problem solving , calling about arears that are due / overdue .",
-          "type":"hard",
-          "image":"https://siphokuhlenyana.github.io/icons/call.jpg"
+          "type":"soft",
+          "image":"https://siphokuhlenyana.github.io/icons/SCRUM(1).png"
       },
       {
-        "name": "CallCentre Customer Service",
+        "name": "UI/UX",
         
-          "type":"hard",
-          "image":"https://siphokuhlenyana.github.io/icons/service.jpg"
+          "type":"soft",
+          "image":"https://siphokuhlenyana.github.io/icons/UIUX(1).png"
       },
         {
             "name":"Leadership",
